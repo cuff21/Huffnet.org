@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="movie-tile.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="957.90885"
+     inkscape:cy="670.91897"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     scale-x="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-26.06665)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 1024 H 1024 V 0 Z M 80,84.800781 H 230 V 234.80078 H 80 Z m 714,0 H 944 V 234.80078 H 794 Z M 80,319.59961 h 150 v 150 H 80 Z m 714,0 h 150 v 150 H 794 Z m -412.10547,46.82227 c 4.48411,0.18126 10.99959,3.0525 20.46875,8.51953 l 228.42578,128.4375 c 8.5135,4.91528 8.42536,12.39858 -0.40039,17.49414 L 402.36328,649.08594 C 371.8847,666.68276 372,657.49157 372,618.72266 V 405.30469 c 0,-26.6598 0.0295,-39.28161 9.89453,-38.88281 z M 80,554.40039 h 150 v 150 H 80 Z m 714,0 h 150 v 150 H 794 Z M 80,789.19922 h 150 v 150 H 80 Z m 714,0 h 150 v 150 H 794 Z"
+       transform="translate(0,26.06665)"
+       id="rect10"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
