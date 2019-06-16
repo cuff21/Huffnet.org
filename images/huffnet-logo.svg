@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="679.11023"
+   height="346.30972"
+   version="1.1"
+   viewBox="0 0 679.11022 346.30972"
+   id="svg55"
+   sodipodi:docname="huffnet-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="0.81711397"
+     inkscape:cx="297.86338"
+     inkscape:cy="159.40108"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs25">
+    <filter
+       id="filter5704"
+       x="-0.090000004"
+       y="-0.12"
+       width="1.1799999"
+       height="1.24"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         flood-color="rgb(19,19,19)"
+         flood-opacity=".13725"
+         result="flood"
+         id="feFlood2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4" />
+      <feGaussianBlur
+         flood-opacity=".3"
+         in="composite1"
+         result="blur"
+         stdDeviation="5"
+         id="feGaussianBlur6" />
+      <feOffset
+         dx="-2"
+         dy="-2"
+         flood-opacity=".42"
+         result="offset"
+         id="feOffset8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         result="fbSourceGraphic"
+         id="feComposite10" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".1098"
+         in="fbSourceGraphic"
+         result="flood"
+         id="feFlood14" />
+      <feComposite
+         in="flood"
+         in2="fbSourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite16" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="8"
+         id="feGaussianBlur18" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset20" />
+      <feComposite
+         in="offset"
+         in2="fbSourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite22" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-50.721339,71.465414)"
+     id="g53">
+    <circle
+       cx="170.92999"
+       cy="106.07"
+       r="200"
+       display="none"
+       id="circle27"
+       style="display:none;fill:#424242;filter:url(#filter5704)" />
+    <g
+       id="g39"
+       style="display:inline">
+      <path
+         d="m 170.93,-93.934 c -95.853,-2.0313 -185.02,74.561 -197.7,169.54 -16.23,93.057 43.614,191.33 133.55,219.95 49.089,16.502 101.37,8.6597 152.15,10.508 117.27,-0.37359 234.57,0.75703 351.81,-0.5832 95.608,-5.3828 178.65,-88.421 184.03,-184.03 9.1566,-93.856 -57.782,-187.25 -149.43,-209.09 -46.434,-10.668 -94.429,-4.7539 -141.65,-6.2965 H 170.93 Z"
+         id="path29"
+         inkscape:connector-curvature="0"
+         style="display:none;fill:#424242;stroke:#000000;stroke-width:0.26458001px;filter:url(#filter5704)" />
+      <text
+         x="281.59497"
+         y="78.022285"
+         font-size="175.32px"
+         font-weight="900"
+         letter-spacing="0px"
+         word-spacing="0px"
+         style="font-weight:900;font-size:175.32000732px;line-height:1.25;font-family:Roboto;letter-spacing:0px;word-spacing:0px;fill:#90a4ae;stroke-width:0.91312999;filter:url(#filter5704)"
+         xml:space="preserve"
+         id="text33"><tspan
+           x="281.59497"
+           y="78.022285"
+           id="tspan31"
+           style="fill:#90a4ae;stroke-width:0.91312999">uff</tspan></text>
+      <text
+         x="280.67792"
+         y="226.28018"
+         font-size="155.59px"
+         font-weight="900"
+         letter-spacing="0px"
+         word-spacing="0px"
+         style="font-weight:900;font-size:155.58999634px;line-height:1.25;font-family:Roboto;letter-spacing:0px;word-spacing:0px;fill:#efefef;stroke-width:0.81035;filter:url(#filter5704)"
+         xml:space="preserve"
+         id="text37"><tspan
+           x="280.67792"
+           y="226.28018"
+           id="tspan35"
+           style="fill:#efefef;stroke-width:0.81035">et.org</tspan></text>
+    </g>
+    <g
+       transform="translate(70.933,-70.933)"
+       id="g51">
+      <path
+         d="m 100.88,223.75 c 14.027,24.133 27.253,48.719 40.556,73.254 0.33333,-24.595 0.66667,-49.189 1,-73.784 H 100.88 Z"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#efefef;filter:url(#filter5704)"
+         id="path41"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -2.1168,57.526 v 239.47 h 59.827 v -169.62 l 29.604,-15.415 C 77.6961,94.465 65.2312,75.02 55.6132,57.524 Z m 142.43,0 v 239.47 h 58.624 V 57.526 Z"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#90a4ae;stroke-width:1.75440001;filter:url(#filter5704)"
+         id="path43"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 200,75.463 c -19.589,6.5291 -39.204,12.994 -58.624,20.015 v 201.52 H 200 c -4.1e-4,-73.846 5.6e-4,-147.69 -4.2e-4,-221.54 z M -1.06,134.824 v 162.18 h 58.741 c 1e-5,-49.629 1.8e-5,-99.258 2.9e-5,-148.89 6.6309,10.42 13.262,20.841 19.893,31.261 h 49.417001 c -12.873,-22.647 -25.746,-45.293 -38.619001,-67.94 -29.186,9.9312 -58.868,18.869 -89.432,23.39 z"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#efefef;filter:url(#filter5704)"
+         id="path45"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 142.43,129.02 v 50.358 H 57.679 v -31.261 c -22.821,9.5786 -46.512,23.438 -57.683,46.392 v 102.5 h 57.683 v -73.255 h 84.751 v 73.254 c 19.542,1.4e-4 39.083,2.8e-4 58.625,4.2e-4 v -170.45 c -19.56,0.19481 -39.137,0.67876 -58.624,2.4683 z"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#90a4ae;filter:url(#filter5704)"
+         id="path47"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 143.7,297 h 58.413 v -55.804 c -17.096,13.633 -37.659,22.022 -58.413,28.336 8e-5,9.156 1.4e-4,18.312 2.2e-4,27.468 z M 57.679,283.072 c -19.206,1.0654 -38.461,1.1959 -57.683,0.49869 v 13.43 h 57.73"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#efefef;filter:url(#filter5704)"
+         id="path49"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

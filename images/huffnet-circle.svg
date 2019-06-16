@@ -1,0 +1,32 @@
+<svg width="472" height="496" version="1.1" viewBox="0 0 472 496" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter5704" x="-.09" y="-.12" width="1.18" height="1.24" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(19,19,19)" flood-opacity=".13725" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur flood-opacity=".3" in="composite1" result="blur" stdDeviation="5"/>
+   <feOffset dx="-2" dy="-2" flood-opacity=".42" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="fbSourceGraphic"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".1098" in="fbSourceGraphic" result="flood"/>
+   <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="8"/>
+   <feOffset dx="2" dy="2" result="offset"/>
+   <feComposite in="offset" in2="fbSourceGraphic" operator="atop" result="composite2"/>
+  </filter>
+ </defs>
+ <g transform="translate(65.07 141.93)">
+  <circle cx="170.93" cy="106.07" r="200" fill="#424242" filter="url(#filter5704)"/>
+  <g display="none">
+   <path d="m170.93-93.934c-95.853-2.0313-185.02 74.561-197.7 169.54-16.23 93.057 43.614 191.33 133.55 219.95 49.089 16.502 101.37 8.6597 152.15 10.508 117.27-0.37359 234.57 0.75703 351.81-0.5832 95.608-5.3828 178.65-88.421 184.03-184.03 9.1566-93.856-57.782-187.25-149.43-209.09-46.434-10.668-94.429-4.7539-141.65-6.2965h-332.76z" fill="#424242" filter="url(#filter5704)" stroke="#000" stroke-width=".26458px"/>
+   <text x="281.59497" y="78.022285" fill="#90a4ae" filter="url(#filter5704)" font-family="Roboto" font-size="175.32px" font-weight="900" letter-spacing="0px" stroke-width=".91313" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="281.59497" y="78.022285" fill="#90a4ae" stroke-width=".91313">uff</tspan></text>
+   <text x="280.67792" y="226.28018" fill="#efefef" filter="url(#filter5704)" font-family="Roboto" font-size="155.59px" font-weight="900" letter-spacing="0px" stroke-width=".81035" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="280.67792" y="226.28018" fill="#efefef" stroke-width=".81035">et.org</tspan></text>
+  </g>
+  <g transform="translate(70.933,-70.933)">
+   <path d="m100.88 223.75c14.027 24.133 27.253 48.719 40.556 73.254 0.33333-24.595 0.66667-49.189 1-73.784h-41.556z" fill="#efefef" filter="url(#filter5704)" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m-2.1168 57.526v239.47h59.827v-169.62l29.604-15.415c-9.6181-17.496-22.083-36.941-31.701-54.437zm142.43 0v239.47h58.624v-239.47z" fill="#90a4ae" filter="url(#filter5704)" stroke-width="1.7544" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m200 75.463c-19.589 6.5291-39.204 12.994-58.624 20.015v201.52h58.624c-4.1e-4 -73.846 5.6e-4 -147.69-4.2e-4 -221.54zm-201.06 59.361v162.18h58.741c1e-5 -49.629 1.8e-5 -99.258 2.9e-5 -148.89 6.6309 10.42 13.262 20.841 19.893 31.261h49.417c-12.873-22.647-25.746-45.293-38.619-67.94-29.186 9.9312-58.868 18.869-89.432 23.39z" fill="#efefef" filter="url(#filter5704)" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m142.43 129.02v50.358h-84.751v-31.261c-22.821 9.5786-46.512 23.438-57.683 46.392v102.5h57.683v-73.255h84.751v73.254c19.542 1.4e-4 39.083 2.8e-4 58.625 4.2e-4v-170.45c-19.56 0.19481-39.137 0.67876-58.624 2.4683z" fill="#90a4ae" filter="url(#filter5704)" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m143.7 297h58.413v-55.804c-17.096 13.633-37.659 22.022-58.413 28.336 8e-5 9.156 1.4e-4 18.312 2.2e-4 27.468zm-86.021-13.928c-19.206 1.0654-38.461 1.1959-57.683 0.49869v13.43h57.73" fill="#efefef" filter="url(#filter5704)" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
+ </g>
+</svg>
